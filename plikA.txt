@@ -1,1 +1,1 @@
-Dodanie funkcjonalnosci A
+Funkcjonalnosci A w wersji 2.0
